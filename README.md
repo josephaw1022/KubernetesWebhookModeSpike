@@ -34,10 +34,6 @@ This guide provides instructions on how to create and trust an HTTPS development
    You should see files like `certificate.crt`, `certificate.key`, and possibly others depending on your previous uses of the .NET development certificate tool.
 
 
-
-Certainly! Here's a `README.md` file for a GitHub repository that uses a Helm chart to set up a local Kubernetes cluster in webhook mode and integrates it with a .NET Web API. The Helm chart handles the Kubernetes configuration, while the .NET Web API code resides in the `src` directory.
-
-```markdown
 # Local Kubernetes Webhook Cluster with .NET Web API Integration
 
 This repository contains all the necessary components to set up a local Kubernetes cluster in webhook mode and have it callback to a .NET Web API. The setup is designed to run a Kubernetes webhook that integrates seamlessly with a .NET Web API, facilitating a development environment for webhook testing and functionality demonstrations.
